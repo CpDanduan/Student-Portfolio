@@ -15,4 +15,6 @@ The study examines based on:
 ## Certificates
 Below are the certificates related to the Course Subject:
 
-![Certificate] 
+![Certificate]
+![Certificate]
+![Certificate]
