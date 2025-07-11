@@ -15,6 +15,6 @@ The study examines based on:
 ## Certificates
 Below are the certificates related to the Course Subject:
 
-[CertificateOfCompletion_Agile Software Development Clean Coding Practices.pdf](https://github.com/user-attachments/files/21180982/CertificateOfCompletion_Agile.Software.Development.Clean.Coding.Practices.pdf)
-[CertificateOfCompletion_Agile Software Development Refactoring.pdf](https://github.com/user-attachments/files/21180984/CertificateOfCompletion_Agile.Software.Development.Refactoring.pdf)
-[CertificateOfCompletion_Understanding the Impact of a Merger for IT Teams.pdf](https://github.com/user-attachments/files/21180986/CertificateOfCompletion_Understanding.the.Impact.of.a.Merger.for.IT.Teams.pdf)
+![CertificateOfCompletion_Agile Software Development Clean Coding Practices.pdf](https://github.com/user-attachments/files/21180982/CertificateOfCompletion_Agile.Software.Development.Clean.Coding.Practices.pdf)
+![CertificateOfCompletion_Agile Software Development Refactoring.pdf](https://github.com/user-attachments/files/21180984/CertificateOfCompletion_Agile.Software.Development.Refactoring.pdf)
+![CertificateOfCompletion_Understanding the Impact of a Merger for IT Teams.pdf](https://github.com/user-attachments/files/21180986/CertificateOfCompletion_Understanding.the.Impact.of.a.Merger.for.IT.Teams.pdf)
